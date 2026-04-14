@@ -1,8 +1,8 @@
-RoadSense: Traffic Analysis & Visualization
+Traffic Congestion Analysis & Visualization
 
 Overview
 
-RoadSense is a data-driven traffic analysis project that helps identify congestion patterns and road conditions using real-world traffic data.
+It is a data-driven traffic analysis project that helps identify congestion patterns and road conditions using real-world traffic data.
 The project provides an interactive dashboard built with Streamlit for visualizing and analyzing traffic trends.
 
 ---
