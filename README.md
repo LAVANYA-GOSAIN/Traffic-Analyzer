@@ -65,6 +65,12 @@ streamlit run app.py
 Dataset
 
 The dataset used in this project is sourced from Kaggle.
+Due to GitHub file size limitations, the dataset is not included in this repository.
+Download it from:
+👉 https://www.kaggle.com/datasets/ucimachinelearning/vanet-traffic-congestion-dataset
+
+After downloading, place the file in the project folder.
+
 The dataset used (`traffic_data.csv`) contains traffic-related information such as:
 
 * Vehicle count
