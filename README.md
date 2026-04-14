@@ -44,8 +44,8 @@ Installation & Setup
 Clone the repository
 
 ```bash
-git clone <your-repo-link>
-cd <your-repo-name>
+git clone https://github.com/LAVANYA-GOSAIN/Traffic-Analyzer.git
+cd Traffic-Analyzer
 ```
 
 Install dependencies
